@@ -1,7 +1,7 @@
 ## Hi there 👋 我是 ShiJingYuan
 
 - 👨‍💻 **正在学习**：Go 语言 (Golang)
-- 🎓 **师从**：@SOV710 
+- 🎓 **师从**：@SOV710 ](https://github.com/SOV710)
 - 🚀 **目标**：争取加速进化
 - 🔭 **目前状态**：区
 
