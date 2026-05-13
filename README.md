@@ -4,6 +4,7 @@
 - 🎓 **师从**：[@SOV710 ](https://github.com/SOV710)
 - 🚀 **目标**：争取加速进化
 - 🔭 **目前状态**：区
+- 📚 **博客**：https://jaspersao.netlify.app/
 
 ---
 
