@@ -1,4 +1,4 @@
-## Hi there, 我是 JasperSao👋
+## Hi there, 我是 ShiJingYuan 👋
 
 一名正在学习 Go 的开发者，关注后端工程、分布式系统与开源协作。
 
@@ -16,16 +16,24 @@
 
 #### 正在使用
 
-<img src="https://skillicons.dev/icons?i=go,gin,git,github,docker,linux,nginx,apple,neovim" alt="Go, Gin, Git, GitHub, Docker, Linux, Nginx, macOS and Neovim" />
-<img src="https://cdn.simpleicons.org/tmux/1BB91F" alt="tmux" width="48" height="48" />
-
-`Go` `Gin` `Git` `GitHub` `Docker` `Linux` `Nginx` `macOS` `Neovim` `tmux`
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-008ECF?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+![tmux](https://img.shields.io/badge/tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white)
 
 #### 学习与实践中
 
-<img src="https://skillicons.dev/icons?i=redis,rabbitmq,vue,ts,postgres" alt="Redis, RabbitMQ, Vue.js, TypeScript and PostgreSQL" />
-
-`Redis` `RabbitMQ` `Vue.js` `TypeScript` `PostgreSQL`
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
 
