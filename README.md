@@ -1,82 +1,66 @@
-## Hi there, 我是 ShiJingYuan 👋
+## 你好，我是 Jasper 👋
 
- 
-- 👨‍💻 **正在学习**：C / Cpp / Go / 数据库 / 消息队列
-- 🎓 **师从**：[@SOV710](https://github.com/SOV710)
-- 🚀 **当前目标**：通过真实项目和开源贡献持续提升工程能力
-- 🧭 **求职目标**：希望大二暑假找到一份QD相关实习
-- 🔭 **目前状态**：在校学习中，持续写代码、读源码、做项目
-- 📝 **个人博客**：[JasperSao 的博客](https://jasperstonnne.github.io/MyBlog/)
-- 📫 **联系邮箱**：[shijingyuan061010@gmail.com](mailto:shijingyuan061010@gmail.com)
+> 应无所住
+
+山东大学 2029 届本科生。最近常常在和 **Linux、C/C++、Go** 打交道，目前主要关注 **系统与网络编程**。
+
+正在向 **CUHK CS** 和 **Quant Developer** 的方向前进。这里记录我的学习、项目和思考，也见证自己一点点接近想去的地方。
+
+[![Blog](https://img.shields.io/badge/Blog-JasperSao-0A66C2?style=flat-square&logo=hugo&logoColor=white)](https://jasperstonnne.github.io/MyBlog/)
+[![Email](https://img.shields.io/badge/Email-shijingyuan061010%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shijingyuan061010@gmail.com)
+[![Linux.do](https://img.shields.io/badge/Linux.do-jaspersao-F5C518?style=flat-square&logo=linux&logoColor=black)](https://linux.do/u/jaspersao/summary)
 
 ---
+
+### 🔭 目前关注
+
+- Linux 系统编程与高性能网络：epoll、io_uring、Reactor / Proactor、协程
+- C/C++ 网络服务与用户态协议栈：TCP、DPDK、并发与事件驱动
+- KV 存储引擎：Array、Hash、RBTree、SkipList、Snapshot 与 AOF
+- Go 后端开发、工程化与开源实践
 
 ### 🛠 技术栈
 
-#### 正在使用
-
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Gin](https://img.shields.io/badge/Gin-008ECF?style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
-![tmux](https://img.shields.io/badge/tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white)
-
-#### 学习与实践中
-
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 
----
+### 🚀 最近的项目
 
-### 🌱 最近在做
+#### [91kvstore](https://github.com/JasperStonnne/91kvstore)
 
-- 系统学习 Go：语法、接口、错误处理、并发、工程化与 Web 开发
-- 反推 Go + Vue 3 Feed 流项目，理解 API、Worker 与消息队列架构
-- 实践 Docker Compose、PostgreSQL、Redis 和 RabbitMQ 的协同开发
-- 阅读开源项目源码，尝试从复现问题到提交 Issue 和 Pull Request
-- 持续整理学习笔记，并发布到个人博客
+一个用 C 实现的多引擎 KV 存储项目。
 
----
+- 统一接入 epoll Reactor、io_uring Proactor 与协程网络层
+- 支持 Array、Hash、RBTree、SkipList 等存储引擎
+- 实现 Snapshot 全量快照、AOF 增量日志与启动混合恢复
+- 配套多语言客户端、自动化测试与 QPS 压测
 
-### 🚀 开源实践
+#### [feedsystem_video](https://github.com/JasperStonnne/feedsystem_video)
 
-#### [feedsystem_video_go](https://github.com/LeoninCS/feedsystem_video_go)
-
-一个基于 Go + Vue 3 的短视频 Feed 流系统。
-
-- 跑通 Go API、Vue 前端、MySQL、Redis 与 RabbitMQ 开发环境
-- 理解 API + Worker 的异步任务处理模式
-- 定位 JWT 随机密钥未缓存导致的鉴权失败问题
-- 提交 [Issue #15](https://github.com/LeoninCS/feedsystem_video_go/issues/15)
-- 提交 [Pull Request #16](https://github.com/LeoninCS/feedsystem_video_go/pull/16)
-
----
+基于 Go + Vue 3 的短视频 Feed 流系统，实践 API、Worker、Redis、RabbitMQ 与容器化协同开发。
 
 ### 📚 最近的文章
 
-- [Go 项目反推：Feed 流系统实战——从 Docker 到开源贡献](https://jasperstonnne.github.io/MyBlog/p/go-feed-system-reverse-engineering/)
-- [Go Web 开发：从 net/http 到 Gin](https://jasperstonnne.github.io/MyBlog/p/go-web-net-http-to-gin/)
-- [Go 语言并发：从 Goroutine 到 Worker Pool](https://jasperstonnne.github.io/MyBlog/p/go-concurrency-goroutines-worker-pool/)
-- [Go 语言工程化：模块管理与项目结构](https://jasperstonnne.github.io/MyBlog/p/go-engineering-modules-project-structure/)
+- [KV 进化（二）：Snapshot 全量快照 + AOF 增量日志](https://jasperstonnne.github.io/MyBlog/p/kv-evolution-snapshot-aof-persistence/)
+- [KV 进化（一）：给 91kvstore 接上一条跳表](https://jasperstonnne.github.io/MyBlog/p/kv-evolution-skiplist-engine/)
+- [KV 存储项目网络层：统一接入 Reactor、Proactor 与协程](https://jasperstonnne.github.io/MyBlog/p/kv-store-network-layer/)
+- [io_uring（二）：QPS 实测，真的比 epoll 强吗？](https://jasperstonnne.github.io/MyBlog/p/io-uring-qps-vs-epoll/)
+- [DPDK 用户态 TCP 协议栈（四）：并发与自实现 epoll](https://jasperstonnne.github.io/MyBlog/p/dpdk-userspace-tcp-concurrency-epoll/)
 
-更多内容：[访问我的博客](https://jasperstonnne.github.io/MyBlog/)
+更多内容：[访问 JasperSao 的博客 →](https://jasperstonnne.github.io/MyBlog/)
+
+### 📊 GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JasperStonnne&show_icons=true&hide_border=true&theme=transparent)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=JasperStonnne&hide_border=true&theme=transparent)
 
 ---
 
-### 🎯 接下来的计划
-
-- [ ] 深入理解 Go Runtime、调度器与内存管理
-- [ ] 完成一个可部署的 Go 后端项目
-- [ ] 学习常见缓存、消息队列与数据库设计模式
-- [ ] 持续参与开源项目并提交高质量 PR
-- [ ] 保持技术写作和阶段复盘
-
-> 保持好奇，持续实践，争取加速进化。
+> 持续学习，持续构建，持续记录。
