@@ -1,11 +1,10 @@
 ## Hi there, 我是 ShiJingYuan 👋
 
-一名正在学习 Go 的开发者，关注后端工程、分布式系统与开源协作。
-
-- 👨‍💻 **正在学习**：Go / Gin / 数据库 / 消息队列
+ 
+- 👨‍💻 **正在学习**：C / Cpp / Go / 数据库 / 消息队列
 - 🎓 **师从**：[@SOV710](https://github.com/SOV710)
 - 🚀 **当前目标**：通过真实项目和开源贡献持续提升工程能力
-- 🧭 **求职目标**：希望寒假找到一份 Go 后端相关实习
+- 🧭 **求职目标**：希望大二暑假找到一份QD相关实习
 - 🔭 **目前状态**：在校学习中，持续写代码、读源码、做项目
 - 📝 **个人博客**：[JasperSao 的博客](https://jasperstonnne.github.io/MyBlog/)
 - 📫 **联系邮箱**：[shijingyuan061010@gmail.com](mailto:shijingyuan061010@gmail.com)
