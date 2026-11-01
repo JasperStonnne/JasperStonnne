@@ -21,9 +21,8 @@
 - [`feedsystem_video`](https://github.com/JasperStonnne/feedsystem_video) : `Go + Vue3 short-video feed`
 
 ### 💻 Connect With Me
-- 🎵 抖音 : `軟核`
 - 📝 Blog : [jasperstonnne.github.io/MyBlog](https://jasperstonnne.github.io/MyBlog/)
-- 📫 E-mail : `shijingyuan061010@gmail.com`
+- 📫 E-mail : `484235001@qq.com`
 - 🐧 linux.do : [jaspersao](https://linux.do/u/jaspersao/summary)
 
 <br clear="all">
@@ -39,8 +38,8 @@
 [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
 
 <div style="margin: 10px 0">
-  <a href="mailto:shijingyuan061010@gmail.com">
-    <img src="https://img.shields.io/badge/shijingyuan061010%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <a href="mailto:484235001@qq.com">
+    <img src="https://img.shields.io/badge/484235001%40qq.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://jasperstonnne.github.io/MyBlog/">
     <img src="https://img.shields.io/badge/Blog-0A66C2?style=for-the-badge&logo=hugo&logoColor=white" alt="Blog">
