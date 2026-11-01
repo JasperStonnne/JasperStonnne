@@ -1,72 +1,59 @@
-## 你好，我是 軟核 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&pause=100000&color=0078D7&center=true&vCenter=true&width=820&lines=I%27m+Jasper+%28%E8%BB%9F%E6%A0%B8%29%2C+Backend%2FInfra+Engineer+%E2%80%94+focused+on+kvstore" alt="I'm Jasper (軟核), Backend/Infra Engineer"/>
+  <p>
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/>
+    <strong>I'm currently focused on Backend | Infra / kvstore (C storage + Linux systems).</strong>
+  </p>
+  <p>
+    <code>📍 Shandong University, Weihai</code>
+  </p>
+  <p><em>应无所住</em></p>
+</div>
 
-> 应无所住
 
-GitHub 身份是 **Jasper** / **JasperStonnne**。
+## ABOUT ME
+### 🏫 山东大学（威海）| Computer Science | Class Of 2029
 
-- 🏫 山东大学 | Class of 2029
-- 💼 kvstore
-- 👨‍💻 Backend | Infra
+<img align="right" src="https://count.getloli.com/get/@JasperStonnne?theme=moebooru&scale=1.1" alt="JasperStonnne" width="400"/>
 
-最近常常在和 **Linux、C/C++、Go** 打交道，把时间放在存储、后端和基础设施上。这里记录学习、项目和思考。
+### 🚀 Project Highlights
+- [`91kvstore`](https://github.com/JasperStonnne/91kvstore) : `C KV store (epoll/io_uring/coroutines, Snapshot+AOF, RESP)`
+- [`feedsystem_video`](https://github.com/JasperStonnne/feedsystem_video) : `Go + Vue3 short-video feed`
 
-[![Blog](https://img.shields.io/badge/Blog-JasperSao-0A66C2?style=flat-square&logo=hugo&logoColor=white)](https://jasperstonnne.github.io/MyBlog/)
-[![Email](https://img.shields.io/badge/Email-shijingyuan061010%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shijingyuan061010@gmail.com)
-[![Linux.do](https://img.shields.io/badge/Linux.do-jaspersao-F5C518?style=flat-square&logo=linux&logoColor=black)](https://linux.do/u/jaspersao/summary)
+### 💻 Connect With Me
+- 🎵 抖音 : `軟核`
+- 📝 Blog : [jasperstonnne.github.io/MyBlog](https://jasperstonnne.github.io/MyBlog/)
+- 📫 E-mail : `shijingyuan061010@gmail.com`
+- 🐧 linux.do : [jaspersao](https://linux.do/u/jaspersao/summary)
 
----
+<br clear="all">
 
-### 🔭 目前关注
+[![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)](https://en.cppreference.com/w/c/)
+[![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://go.dev/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.linux.org/)
 
-主线是 **kvstore**，方向是 **Backend | Infra**。
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://redis.io/)
+[![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
 
-- KV 存储引擎：Array、Hash、RBTree、SkipList、Snapshot 与 AOF
-- Linux 系统编程与高性能网络：epoll、io_uring、Reactor / Proactor、协程
-- C/C++ 网络服务与用户态协议栈：TCP、DPDK、并发与事件驱动
-- Go 后端开发、工程化与开源实践
+<div style="margin: 10px 0">
+  <a href="mailto:shijingyuan061010@gmail.com">
+    <img src="https://img.shields.io/badge/shijingyuan061010%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://jasperstonnne.github.io/MyBlog/">
+    <img src="https://img.shields.io/badge/Blog-0A66C2?style=for-the-badge&logo=hugo&logoColor=white" alt="Blog">
+  </a>
+  <a href="https://linux.do/u/jaspersao/summary">
+    <img src="https://img.shields.io/badge/linux.do-F5C518?style=for-the-badge&logo=linux&logoColor=black" alt="linux.do">
+  </a>
+</div>
 
-### 🛠 技术栈
-
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-
-### 🚀 最近的项目
-
-#### [91kvstore](https://github.com/JasperStonnne/91kvstore)
-
-一个用 C 实现的多引擎 KV 存储项目。
-
-- 统一接入 epoll Reactor、io_uring Proactor 与协程网络层
-- 支持 Array、Hash、RBTree、SkipList 等存储引擎
-- 实现 Snapshot 全量快照、AOF 增量日志与启动混合恢复
-- 配套多语言客户端、自动化测试与 QPS 压测
-
-#### [feedsystem_video](https://github.com/JasperStonnne/feedsystem_video)
-
-基于 Go + Vue 3 的短视频 Feed 流系统，实践 API、Worker、Redis、RabbitMQ 与容器化协同开发。
-
-### 📚 最近的文章
-
-- [KV 进化（二）：Snapshot 全量快照 + AOF 增量日志](https://jasperstonnne.github.io/MyBlog/p/kv-evolution-snapshot-aof-persistence/)
-- [KV 进化（一）：给 91kvstore 接上一条跳表](https://jasperstonnne.github.io/MyBlog/p/kv-evolution-skiplist-engine/)
-- [KV 存储项目网络层：统一接入 Reactor、Proactor 与协程](https://jasperstonnne.github.io/MyBlog/p/kv-store-network-layer/)
-- [io_uring（二）：QPS 实测，真的比 epoll 强吗？](https://jasperstonnne.github.io/MyBlog/p/io-uring-qps-vs-epoll/)
-- [DPDK 用户态 TCP 协议栈（四）：并发与自实现 epoll](https://jasperstonnne.github.io/MyBlog/p/dpdk-userspace-tcp-concurrency-epoll/)
-
-更多内容：[访问 JasperSao 的博客 →](https://jasperstonnne.github.io/MyBlog/)
-
-### 📊 GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JasperStonnne&show_icons=true&hide_border=true&theme=transparent)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=JasperStonnne&hide_border=true&theme=transparent)
-
----
-
-> 持续学习，持续构建，持续记录。
+<div align="center" style="margin: 20px 0; width: 100%;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JasperStonnne/JasperStonnne/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JasperStonnne/JasperStonnne/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JasperStonnne/JasperStonnne/output/github-contribution-grid-snake.svg" style="width: 100%; border-radius: 8px;">
+  </picture>
+</div>
