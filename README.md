@@ -37,6 +37,10 @@
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://redis.io/)
 [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
 
+[![RDMA](https://img.shields.io/badge/RDMA-5B4B8A?style=flat-square)](https://docs.kernel.org/infiniband/index.html)
+[![eBPF](https://img.shields.io/badge/eBPF-FFE100?style=flat-square)](https://ebpf.io/)
+[![DPDK](https://img.shields.io/badge/DPDK-007CBA?style=flat-square)](https://www.dpdk.org/)
+
 <div style="margin: 10px 0">
   <a href="mailto:484235001@qq.com">
     <img src="https://img.shields.io/badge/484235001%40qq.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
