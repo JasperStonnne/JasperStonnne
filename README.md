@@ -1,10 +1,14 @@
-## 你好，我是 Jasper 👋
+## 你好，我是 軟核 👋
 
 > 应无所住
 
-山东大学 2029 届本科生。最近常常在和 **Linux、C/C++、Go** 打交道，目前主要关注 **系统与网络编程**。
+GitHub 身份是 **Jasper** / **JasperStonnne**。
 
-正在向 **CUHK CS** 和 **Quant Developer** 的方向前进。这里记录我的学习、项目和思考，也见证自己一点点接近想去的地方。
+- 🏫 山东大学 | Class of 2029
+- 💼 kvstore
+- 👨‍💻 Backend | Infra
+
+最近常常在和 **Linux、C/C++、Go** 打交道，把时间放在存储、后端和基础设施上。这里记录学习、项目和思考。
 
 [![Blog](https://img.shields.io/badge/Blog-JasperSao-0A66C2?style=flat-square&logo=hugo&logoColor=white)](https://jasperstonnne.github.io/MyBlog/)
 [![Email](https://img.shields.io/badge/Email-shijingyuan061010%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shijingyuan061010@gmail.com)
@@ -14,9 +18,11 @@
 
 ### 🔭 目前关注
 
+主线是 **kvstore**，方向是 **Backend | Infra**。
+
+- KV 存储引擎：Array、Hash、RBTree、SkipList、Snapshot 与 AOF
 - Linux 系统编程与高性能网络：epoll、io_uring、Reactor / Proactor、协程
 - C/C++ 网络服务与用户态协议栈：TCP、DPDK、并发与事件驱动
-- KV 存储引擎：Array、Hash、RBTree、SkipList、Snapshot 与 AOF
 - Go 后端开发、工程化与开源实践
 
 ### 🛠 技术栈
