@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&pause=100000&color=0078D7&center=true&vCenter=true&width=820&lines=I%27m+Jasper+%28%E8%BB%9F%E6%A0%B8%29%2C+Backend%2FInfra+Engineer+%E2%80%94+focused+on+kvstore" alt="I'm Jasper (軟核), Backend/Infra Engineer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&pause=100000&color=0078D7&center=true&vCenter=true&width=820&lines=I%27m+Jasper+%28%E8%BB%9F%E6%A0%B8%29%2C+Backend%2FInfra+Engineer+%E2%80%94+focused+on+kvstore" alt="I'm Jasper (软核), Backend/Infra Engineer"/>
   <p>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/>
     <strong>I'm currently focused on Backend | Infra / kvstore (C storage + Linux systems).</strong>
